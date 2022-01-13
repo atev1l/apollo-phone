@@ -1,0 +1,1 @@
+{if is_photo}<a href="https://lk.pnzgu.ru/portfolio/{#id_user}" target="_blank" class="phonebook-photo"><div class="phonebook-photo" style=" background-image: url('https://lk.pnzgu.ru/files/lk/photo/a_{#id_user}.jpg'); background-repeat: no-repeat;"></div></a>{/if}

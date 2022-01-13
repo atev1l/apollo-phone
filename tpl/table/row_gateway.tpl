@@ -1,0 +1,1 @@
+{#ip_out} / {#gateway_port_name}<br/><span class="text-secondary badge pl-0">{#gateway_name}</span><br/><span class="text-secondary badge pl-0">{#gateway_room_name}</span>

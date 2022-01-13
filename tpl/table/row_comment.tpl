@@ -1,0 +1,1 @@
+<a href="https://lk.pnzgu.ru/portfolio/{#id_user}" target="_blank"><b>{#text}</b></a><div><i class="ico_username fas fa-external-link-alt ml-1"></i></div>
